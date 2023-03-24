@@ -6,5 +6,6 @@
 
 
 [Patika sitesi](patika.dev)
+
 [Patika profilim](https://app.patika.dev/EfeErsan)
 
